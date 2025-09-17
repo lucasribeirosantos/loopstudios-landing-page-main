@@ -1,0 +1,5 @@
+:root {
+    --title-font: "Josefin Sans", sans-serif; 
+    --text-font: "Alata", sans-serif;
+    --grey-text: hsl(0, 0%, 85%);
+}
